@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-str = 3 * str
-print(str[:9])
+print(F"3 * str")
+print(F"str[:9]")
